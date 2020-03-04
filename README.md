@@ -6,5 +6,3 @@ Android app that shows a weather(temperature, description, etc) for the city. Us
 # Build with
 Android Studio
 
-# Screens
-![Alt text](screen.png "Main")
